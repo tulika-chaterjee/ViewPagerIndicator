@@ -1,0 +1,4 @@
+allprojects  {
+  group = 'io.vokal.external'
+  version = '2.4.2'
+}
